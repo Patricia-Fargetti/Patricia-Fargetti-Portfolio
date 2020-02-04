@@ -66,9 +66,16 @@ h4.check-out{
 	font-style: italic;
 	letter-spacing: 6px;
 	text-align: center;
-	margin-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 11px;
 
 }
+.parte-2 h2{
+    text-align: center;
+    color: black;
+    font-weight: lighter;
+}
+
 .highlight{
 	    color: #4294cb;
 	    font-style: italic;
